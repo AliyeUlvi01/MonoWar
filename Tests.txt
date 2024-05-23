@@ -1,0 +1,8 @@
+Test1. 225 (Xetasiz)
+Test2. baglandi (Xetasiz)
+Test3. 210 (Xetasiz)
+Test4.  220 (Xetasiz)
+Test5.  baglandi (Xetasiz)
+Test6. 305 (Xetasiz)
+
+TestMain: 225 (Xetasiz 10 canla :D )
